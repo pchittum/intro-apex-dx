@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Rating</fullName>
+    <picklist>
+        <picklistValues>
+            <fullName>Hot</fullName>
+            <default>false</default>
+        </picklistValues>
+        <picklistValues>
+            <fullName>Warm</fullName>
+            <default>false</default>
+        </picklistValues>
+        <picklistValues>
+            <fullName>Cold</fullName>
+            <default>false</default>
+        </picklistValues>
+        <sorted>false</sorted>
+    </picklist>
+    <trackFeedHistory>false</trackFeedHistory>
+    <type>Picklist</type>
+</CustomField>

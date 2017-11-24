@@ -1,0 +1,8 @@
+{
+    "orgName": "Intro To Apex",
+    "edition": "Developer",
+    "adminEmail": "pchittum@salesforce.com",
+    "orgPreferences" : {
+        "enabled": ["S1DesktopEnabled"]
+    }
+}
